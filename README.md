@@ -15,8 +15,9 @@ All my coding projects are built from the ground up and finalising the build wit
  ---
  
  ### 🧰 Languages and Tools
- 
- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -31,6 +32,9 @@ All my coding projects are built from the ground up and finalising the build wit
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/256/flutter.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</div>
+
+<br />
 <br />
 
 #
