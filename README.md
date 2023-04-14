@@ -41,13 +41,13 @@ All my coding projects are built from the ground up and finalising the build wit
 
 ### Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabishiek&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabishiek&show_icons=true&theme=tokyonight)
 
 #
 
 ### Streaks
 
-![GitHub Streak](https://streak-stats.demolab.com?user=itsabishiek&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsabishiek&theme=tokyonight&border_radius=4.5)
 
 <!--
 **itsabishiek/itsabishiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
