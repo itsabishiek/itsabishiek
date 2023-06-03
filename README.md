@@ -1,5 +1,4 @@
-# 🤙 Abishiek 🤟
-<p>(@itsabishiek)</p>
+# 🤙 Abishiek (@itsabishiek) 🤟
 
 **`Full Stack Developer (Developer Craftsman)`**
 
