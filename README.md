@@ -1,4 +1,4 @@
-# 🤟 Abishiek (@itsabishiek) <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="32px">
+# 🤟 Abishiek (@itsabishiek) <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="33px">
 
 **`Full Stack Developer (Developer Craftsman)`**
 
