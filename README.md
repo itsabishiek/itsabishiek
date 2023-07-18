@@ -41,7 +41,7 @@ All my coding projects are built from the ground up and finalising the build wit
 
 ### Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsabishiek&show_icons=true&theme=tokyonight)
+![Abishiek's github stats](https://github-readme-stats.vercel.app/api?username=itsabishiek&theme=tokyonight&show_icons=true&hide=["issues"])
 
 #
 
