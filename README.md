@@ -39,7 +39,7 @@ All my coding projects are built from the ground up and finalising the build wit
 
 #
 
-### Stats
+### 📊 Stats
 
 ![Abishiek's github stats](https://github-readme-stats.vercel.app/api?username=itsabishiek&theme=tokyonight&show_icons=true&hide=["issues"])
 
