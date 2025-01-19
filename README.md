@@ -2,8 +2,8 @@
 
 **`Full Stack Developer (Developer Craftsman)`**
 
-I'm a Full stack developer with a passion for building the best version of my digital world with the cutting-edge technologies. I'll do something I never did, to get something I never had.
-All my coding projects are built from the ground up and finalising the build with some artistic touches. Do check out my work on [here](https://itsabishiek.vercel.app).
+Hey Coders! I'm a Full stack developer with a passion for building the best version of my digital world with the cutting-edge technologies. I'll do something I never did, to get something I never had.
+All my coding projects are built from the ground up to finalising the build with some artistic touches. Do check out my work on [here](https://itsabishiek.vercel.app).
 
  <p align="left">   
       <a href="https://github.com/itsabishiek?tab=followers">
